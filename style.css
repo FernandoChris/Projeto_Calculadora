@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.calculator {
+    width: 415px;
+    border: 2px black solid;
+}
+section {
+    padding: 0;
+    margin: 0;
+}
+input {
+    width: 413px;
+    border: 2px black solid;
+}
+button {
+    width: 100px;
+    background-color: black;
+    color: white;
+}
